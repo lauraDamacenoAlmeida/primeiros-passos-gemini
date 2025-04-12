@@ -2,7 +2,7 @@
 
 ![](https://github.com/lauraDamacenoAlmeida/primeiros-passos-gemini/blob/main/harry.png)
 
-Neste projeto introdutório, explorei os primeiros passos para conectar e utilizar a API do modelo Gemini, uma plataforma de IA generativa desenvolvida pela Google. O foco do projeto foi tanto técnico quanto conceitual, pois começamos pela explicação básica do que é IA generativa — uma tecnologia que cria novos conteúdos como texto, imagens, ou música com base em instruções do usuário. O projeto foi feito passo a passo no meu canal do Youtube, (assista aqui)[].
+Neste projeto introdutório, explorei os primeiros passos para conectar e utilizar a API do modelo Gemini, uma plataforma de IA generativa desenvolvida pela Google. O foco do projeto foi tanto técnico quanto conceitual, pois começamos pela explicação básica do que é IA generativa — uma tecnologia que cria novos conteúdos como texto, imagens, ou música com base em instruções do usuário. O projeto foi feito passo a passo no meu canal do Youtube, [assista aqui](https://www.youtube.com/watch?v=xE8-MviLltc).
 
 Inicialmente, demonstrei o processo de geração de uma chave de API, essencial para autenticação e acesso aos serviços do Gemini. Com essa chave, os usuários podem enviar instruções para a IA e receber respostas, abrindo um leque de possibilidades para criação de conteúdos diversos.
 
